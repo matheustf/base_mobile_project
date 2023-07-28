@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 16,
+    "editor.mouseWheelZoom": true,
+    "scm.inputFontSize": 13,
+    "workbench.sash.size": 4,
+    "debug.console.fontSize": 14,
+    "markdown.preview.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "editor.accessibilityPageSize": 10,
+    "editor.scrollbar.horizontalScrollbarSize": 12,
+    "editor.scrollbar.verticalScrollbarSize": 14,
+    "editor.tabSize": 4,
+    "scm.repositories.visible": 10,
+    "window.zoomLevel": 0.1
+}
